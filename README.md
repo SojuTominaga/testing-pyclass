@@ -1,0 +1,2 @@
+# testing-pyclass
+for studying
